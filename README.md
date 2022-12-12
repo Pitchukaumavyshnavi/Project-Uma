@@ -1,4 +1,4 @@
-# ✨project-uma ✨
+# ✨ Medically ✨
 
 This is a web based application developed for health related  website in india
 
