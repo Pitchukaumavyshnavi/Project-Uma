@@ -8,7 +8,7 @@ This is a web based application developed for health related  website in india
 **Project Link** - https://icy-meadow-0bd341100.2.azurestaticapps.net
 
 
-**project video demo link**  -  
+**project video demo link**  -  https://youtu.be/H_Ol_j61DtQ
 
 ## Features and Functionalities 😃
 
