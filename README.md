@@ -70,7 +70,7 @@ This is a web based application developed for health related  website in india
 ## Azure Healthbot-
 
 
-#![2022-12-20 (1)](https://user-images.githubusercontent.com/115459443/208690822-e1316bd2-a693-477a-9694-21831c0543fa.png)
+![2022-12-20 (1)](https://user-images.githubusercontent.com/115459443/208690822-e1316bd2-a693-477a-9694-21831c0543fa.png)
 
 
 ### Static web app-
